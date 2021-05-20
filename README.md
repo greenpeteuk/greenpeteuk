@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @greenpeteuk
 - 👀 I’m interested in Stuff!
 - 🌱 I’m currently learning Git!...
-- 💞️ I’m collaborating on Arcticons
+- 💞️ I’m collaborating on https://github.com/Donnnno/Arcticons
 
 <!---
 greenpeteuk/greenpeteuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
